@@ -1,4 +1,4 @@
-# English Sentences 
+#  
 
 That business value proposition articulates high-level goals, and offers an estimated cost and schedule based on those goals. 
  
